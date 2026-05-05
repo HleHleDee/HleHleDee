@@ -1,8 +1,8 @@
 
-Hi, I'm Hleziphi Davashe 👋
+##Hi, I'm Hleziphi Davashe 👋##
 💻 IT Support Technician | CompTIA A+ Certified | Networking & AWS Cloud Fundamentals | Azure Fundamentals | Web Development | Oracle AI Foundations
 
-👨‍💻 About Me
+#👨‍💻 About Me#
 I am an IT Support Technician with a CompTIA A+ certification, with foundational knowledge in networking, cloud computing, web development, and artificial intelligence as reflected in my certifications. I have a strong interest in technology, troubleshooting, and continuous learning.
 
 I enjoy building projects that help me understand how systems work — from computer hardware and networking to web applications and cloud infrastructure. I am currently expanding my programming knowledge through Harvard's CS50: Introduction to Computer Science while continuing to build technical projects.
@@ -10,7 +10,7 @@ I enjoy building projects that help me understand how systems work — from comp
 I am particularly interested in building and supporting secure, scalable IT infrastructure. My long-term goal is to grow into roles that combine cloud computing, cybersecurity, and system automation, where I can contribute to maintaining reliable and secure systems while continuously improving my technical skills.
 
 
-🛠 Technical Skills
+##🛠 Technical Skills##
 IT Support
 Hardware troubleshooting
 Windows installation and configuration
@@ -31,12 +31,12 @@ AWS cloud fundamentals
 Cloud architecture basics
 Microsoft Azure Fundamentals
 
-Tools
+##Tools##
 Git & GitHub
 Command Line
 Microsoft Office
 
-📜 Certifications
+##📜 Certifications##
 CompTIA A+
 Cisco IT essentials
 ICDL (International Computer Driving Licence)
@@ -48,7 +48,7 @@ Netcampus Introduction to Cybersecurity- Certification of completion
 Netcampus Introduction to Data Analytics- Certification of completion
  
 
-🚀 Projects
+##🚀 Projects##
 Wizard Transformation Animation
 Interactive Scratch animation where a wizard transforms a hare into a unicorn using sprite events, costume switching, and broadcast messaging.
 
@@ -64,7 +64,7 @@ Command-line application that simulates a shopping cart using loops and conditio
 AWS Cloud Labs
 Hands-on labs exploring cloud infrastructure concepts and AWS services.
 
-📚 Currently Learning
+##📚 Currently Learning##
 Harvard CS50: Introduction to Computer Science
 Programming fundamentals in C and Python
 Cloud computing concepts
