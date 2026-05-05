@@ -49,21 +49,16 @@ I am particularly interested in building and supporting secure, scalable IT infr
 * Command Line
 * Microsoft Office
 
-
-## 📜 Certifications
-🏅 CompTIA A+ – [View Badge] (https://www.credly.com/badges/99630d1b-b728-407e-ade7-86255d761917/linked_in?t=tbdpnr)
-Cisco IT Essentials ICDL (International Computer Driving Licence) Oracle AI Foundations Associate AWS Cloud Basics
-Bootcamp – Certificate of Completion FNB App Academy – Beginner Full Stack Developer Program Netcampus Introduction to
-Artificial Intelligence – Certificate of Completion Netcampus Introduction to Cybersecurity – Certificate of Completion
-Netcampus Introduction to Data Analytics – Certificate of Completion) 
-Cisco IT Essentials
-ICDL (International Computer Driving Licence)
-Oracle AI Foundations Associate
-AWS Cloud Basics Bootcamp – Certificate of Completion
-FNB App Academy – Beginner Full Stack Developer Program
-Netcampus Introduction to Artificial Intelligence – Certificate of Completion
-Netcampus Introduction to Cybersecurity – Certificate of Completion
-Netcampus Introduction to Data Analytics – Certificate of Completion
+📜 Certifications
+🏅 CompTIA A+ – View Badge
+🧠 Cisco IT Essentials
+💻 ICDL (International Computer Driving Licence)
+🤖 Oracle AI Foundations Associate
+☁️ AWS Cloud Basics Bootcamp – Certificate of Completion
+🧑‍💻 FNB App Academy – Beginner Full Stack Developer Program
+🧠 Netcampus Introduction to Artificial Intelligence – Certificate of Completion
+🔐 Netcampus Introduction to Cybersecurity – Certificate of Completion
+📊 Netcampus Introduction to Data Analytics – Certificate of Completion
 
 
 ## 🚀 Projects
