@@ -2,7 +2,7 @@
 
 💻 **IT Support Technician | CompTIA A+ Certified | Networking | AWS Cloud Fundamentals | Azure Fundamentals | Web Development | Oracle AI Foundations**
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -12,7 +12,7 @@ I enjoy building projects that help me understand how systems work — from comp
 
 I am particularly interested in building and supporting secure, scalable IT infrastructure. My long-term goal is to grow into roles that combine cloud computing, cybersecurity, and system automation, where I can contribute to maintaining reliable and secure systems while continuously improving my technical skills.
 
----
+
 
 ## 🛠 Technical Skills
 
@@ -44,7 +44,7 @@ I am particularly interested in building and supporting secure, scalable IT infr
 - Command Line  
 - Microsoft Office  
 
----
+
 
 ## 📜 Certifications
 
@@ -58,7 +58,7 @@ I am particularly interested in building and supporting secure, scalable IT infr
 - 🔐 Netcampus Introduction to Cybersecurity – Certificate of Completion  
 - 📊 Netcampus Introduction to Data Analytics – Certificate of Completion  
 
----
+
 
 ## 🚀 Projects
 
@@ -77,7 +77,7 @@ Command-line application that simulates a shopping cart using loops and conditio
 ### ☁️ AWS Cloud Labs
 Hands-on labs exploring cloud infrastructure concepts and AWS services.
 
----
+
 
 ## 📚 Currently Learning
 
@@ -87,12 +87,12 @@ Hands-on labs exploring cloud infrastructure concepts and AWS services.
 - Building web and cloud projects  
 - Microsoft Azure Fundamentals  
 
----
+
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/hleziphi-davashe-79a1a7169  
 
----
+
 
 ⭐ Always learning, always building.
